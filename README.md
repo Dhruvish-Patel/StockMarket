@@ -1,4 +1,4 @@
-# Stonks - Mobile
+# Stocks - Mobile
 This is a simple app that helps users track their favorite stonks. This is not a real time watchlist. You will need to get your own API keys. They're all free.
 ![Stock Market App](/images/latest.png)
 
